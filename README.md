@@ -2,18 +2,14 @@
 <br/>
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Java-20232a.svg?style=for-the-badge&logo=&logoColor=6DB33F" />&nbsp
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/srping-20232a.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" />&nbsp
   <img src="https://img.shields.io/badge/spring boot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />&nbsp
 </div>
-
 <div align="center">
-
-</div>
-
-<br>
-
-<div align="center">
-
+  <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp
 </div>
 
 <br>
