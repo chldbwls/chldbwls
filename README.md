@@ -11,8 +11,17 @@
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp
 </div>
+<div align="center">
+  <h3 align="center">✨ My Tech Vlog ✨</h3>
+  <a href="https://velog.io/@chldbwls/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+</a>
+
+</div>
 
 <br>
+
+
 <!--
 **chldbwls/chldbwls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
