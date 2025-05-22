@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
 </a>
 
+  <a href="https://dbwls-log.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/tistory-FF5A4A?style=flat&logo=tistory&logoColor=white"/>
+</a>
+
 </div>
 
 <br>
